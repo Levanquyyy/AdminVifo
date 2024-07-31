@@ -139,7 +139,7 @@ const TableOne = () => {
       <div className="flex">
         <div className="flex-1 ">
           <h4 className="mb-6 text-xl font-semibold text-black dark:text-white">
-            FamiLy
+            Families
           </h4>
         </div>
         <div className=" flex flex-1  justify-end">
